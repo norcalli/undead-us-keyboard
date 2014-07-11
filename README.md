@@ -1,6 +1,5 @@
 # Undead U.S. Keyboard Layout
-
-## Removes dead keys from default U.S. Mac keyboard layout.
+#### Removes dead keys from default U.S. Mac keyboard layout.
 
 ## Motivation
 
