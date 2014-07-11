@@ -4,7 +4,7 @@
 
 ## Motivation
 
-I wanted to map some keys in Vim and decided to try to remap `<Alt-u>` and then began to rip out my hair in confusion and frustration at what was incredibly inconsistent behavior. It turns out that the keys are dead keys reserved for doing accent marked and umlauts for those german lovers out there.
+I wanted to map some keys in Vim and decided to try to remap `<Option-u>`. I then proceeded to rip out my hair in confusion and frustration. It turns out that the keys are [dead keys](http://en.wikipedia.org/wiki/Dead_key#Dead_keys_on_various_keyboard_layouts) reserved for doing accent marked and umlauts for those german lovers out there.
 
 Therefore I sought to remove those characters and mapped them to moderately useful math characters that I might actually use. While doing this I thought to replace other keys as well with more useful characters, and so `Undead Fancy` was born.
 
